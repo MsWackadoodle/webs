@@ -1,0 +1,28 @@
+@media screen and (max-width: 1023px) {
+	.static-head {
+		padding: 0% 3%;
+	}
+	.static-welcome {
+		float: right;
+	}
+	#h-wrapper {
+		padding: 0 3%;
+	}
+	.navigation .nav-bar li {
+		margin: 0 15px;
+	}
+
+	.nav-bar li:first-child {
+		margin-left: 25px;
+
+	}
+	.content {
+		padding: 0% 3%;
+	}
+	.img-row-right {
+		padding: 0 0;
+	}
+}
+
+
+
